@@ -1,0 +1,52 @@
+[
+    {
+        "id": "182b98d4cdb1909e",
+        "type": "ui_template",
+        "z": "646a2468fcbef3d0",
+        "group": "cb68a9a24e712df2",
+        "name": "",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "format": "<div style=\"text-align:center; font-size:14px;\">\n    <h3>{{msg.payload.name}}</h3>\n    <p><strong>Altura:</strong> {{msg.payload.height}}</p>\n    <p><strong>Peso:</strong> {{msg.payload.weight}}</p>\n    <p><strong>Experiência base:</strong> {{msg.payload.base_experience}}</p>\n    <img ng-src=\"{{msg.payload.sprites.front_default}}\" alt=\"Imagem do Pokémon\" style=\"width:300px;\">\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1040,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "cb68a9a24e712df2",
+        "type": "ui_group",
+        "z": "646a2468fcbef3d0",
+        "name": "Pokédex",
+        "tab": "a443ee7e9177ddfe",
+        "order": 1,
+        "disp": false,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "a443ee7e9177ddfe",
+        "type": "ui_tab",
+        "name": "Pokédex",
+        "icon": "",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "4527fe5656558119",
+        "type": "global-config",
+        "env": [],
+        "modules": {
+            "node-red-dashboard": "3.6.6"
+        }
+    }
+]
