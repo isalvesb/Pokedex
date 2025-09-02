@@ -4,13 +4,13 @@ Uma aplicação web interativa que simula uma Pokédex, que é um dispositivo ic
  ---
 
 ## 🚀 Tecnologias utilizadas
-🔺 [![Node-RED](https://img.shields.io/badge/Node--RED-8a71c9?style=for-the-badge&logo=nodered&logoColor=white)](https://nodered.org/) - Para desenvolvimento da interface  
+🔺 [![Node-RED](https://img.shields.io/badge/Node--RED-8a71c9?style=flat&logo=nodered&logoColor=white)](https://nodered.org/) - Para desenvolvimento da interface  
 
-🔺 [![PokéAPI](https://img.shields.io/badge/PokéAPI-Ditto-ffcb05?style=for-the-badge&logo=pokemon&logoColor=black)](https://pokeapi.co/api/v2/pokemon/ditto) - Como fonte de dados  
+🔺 [![PokéAPI](https://img.shields.io/badge/PokéAPI-Ditto-ffcb05?style=flat&logo=pokemon&logoColor=black)](https://pokeapi.co/api/v2/pokemon/ditto) - Como fonte de dados  
 
-🔺 [![Dashboard Nodes](https://img.shields.io/badge/Dashboard--Nodes-bb8df5?style=for-the-badge&logo=visualstudio&logoColor=white)]() - Para criação da interface gráfica  
+🔺 [![Dashboard Nodes](https://img.shields.io/badge/Dashboard--Nodes-bb8df5?style=flat&logo=visualstudio&logoColor=white)]() - Para criação da interface gráfica  
 
-🔺 [![HTTP Nodes](https://img.shields.io/badge/HTTP--Nodes-9b59b6?style=for-the-badge&logo=fastapi&logoColor=white)]() - Para integração com a API
+🔺 [![HTTP Nodes](https://img.shields.io/badge/HTTP--Nodes-9b59b6?style=flat&logo=fastapi&logoColor=white)]() - Para integração com a API
 
 ---
 
@@ -34,3 +34,9 @@ Abordar a implementação de consumo de APIs REST, o desenvolvimento de interfac
 2. Clique em Importar → Clipboard
 3. Cole o conteúdo do arquivo `flows.json`
 4. Clique em Importar
+
+---
+   
+## 👩‍💻 Ministrado por:
+[![FIAP](https://img.shields.io/badge/FIAP-ed145b?style=flat)](https://www.fiap.com.br/) - professora Priscila Damaceno
+
