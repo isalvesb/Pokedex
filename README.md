@@ -26,3 +26,11 @@ Abordar a implementação de consumo de APIs REST, o desenvolvimento de interfac
 
 ## 📸 Preview
 <img width="1346" height="594" alt="image" src="https://github.com/user-attachments/assets/396db420-51da-4d0a-881e-15c64141c5c2" />
+
+---
+
+## 🖱️ Como usar este fluxo
+1. Abra o Node-RED
+2. Clique em Importar → Clipboard
+3. Cole o conteúdo do arquivo `flows.json`
+4. Clique em Importar
