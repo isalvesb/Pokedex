@@ -25,7 +25,8 @@ Abordar a implementação de consumo de APIs REST, o desenvolvimento de interfac
 ---
 
 ## 📸 Preview
-<img width="1346" height="594" alt="image" src="https://github.com/user-attachments/assets/396db420-51da-4d0a-881e-15c64141c5c2" />
+<img width="1347" height="593" alt="image" src="https://github.com/user-attachments/assets/b9cc833d-c491-45d5-bf1b-cf358de3f61f" />
+
 
 ---
 
