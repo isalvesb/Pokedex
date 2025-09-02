@@ -38,5 +38,5 @@ Abordar a implementação de consumo de APIs REST, o desenvolvimento de interfac
 ---
    
 ## 👩‍💻 Ministrado por:
-[![FIAP](https://img.shields.io/badge/FIAP-ed145b?style=flat)](https://www.fiap.com.br/) - professora Priscila Damaceno
+[![FIAP](https://img.shields.io/badge/FIAP-ed145b?style=flat&logo=fiap)](https://www.fiap.com.br/) - Professora Priscila Damaceno
 
