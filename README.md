@@ -20,7 +20,7 @@ Abordar a implementação de consumo de APIs REST, o desenvolvimento de interfac
 ---
 
 ## 🧩 Nós utilizados 
-<img width="863" height="487" alt="image" src="https://github.com/user-attachments/assets/bbbc5e7c-db9b-40fb-896b-4555859bf383" />
+<img width="877" height="491" alt="image" src="https://github.com/user-attachments/assets/50fac1fc-7581-418f-a76a-f5abb2d84a1e" />
 
 ---
 
