@@ -1,3 +1,5 @@
+#🔴⚪️ Pokédex 
+
 ## 📌 Descrição do projeto
 Uma aplicação web interativa que simula uma Pokédex, que é um dispositivo icônico do universo Pokémon. Essa aplicação permitirá aos usuários pesquisarem e visualizarem informações detalhadas sobre diferentes Pokémons.
 
